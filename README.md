@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is to show frontend build for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Demo
+![ticket_booking_app](https://user-images.githubusercontent.com/113698292/216687272-53f4a3ef-4782-4e37-8545-a9bcb373d05c.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
